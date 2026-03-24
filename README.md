@@ -41,19 +41,18 @@
     <th align="center">김현태</th>
   </tr>
   <tr>
-    <td align="center">생산</td>
-    <td align="center">생산</td>
+    <td align="center">생산    </td>
+    <td align="center">생산    </td>
     <td align="center">기준정보</td>
     <td align="center">기준정보</td>
-    <td align="center">주문</td>
-    <td align="center">주문</td>
-    <td align="center">자재</td>
-    <td align="center">자재</td>
-    <td align="center">품질</td>
-    <td align="center">품질</td>
+    <td align="center">주문    </td>
+    <td align="center">주문    </td>
+    <td align="center">자재    </td>
+    <td align="center">자재    </td>
+    <td align="center">품질    </td>
+    <td align="center">품질    </td>
   </tr>
-
----
+</table>
 
 ## 개발 환경
 ```

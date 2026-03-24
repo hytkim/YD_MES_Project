@@ -152,11 +152,11 @@
     <tr>
       <td align="center" valign="top">
         <b>Client</b><br/>
-        <img src="https://github.com/user-attachments/assets/d4e55948-5bc2-45c6-bd54-3d5ddfeef7bb" width="420"/>
+        <!-- IMG -->
       </td>
       <td align="center" valign="top">
         <b>Server</b><br/>
-        <img src="https://github.com/user-attachments/assets/e5dce849-8a59-46d4-bb0c-3b986505e3df" width="420"/>
+        <!-- IMG -->
       </td>
     </tr>
   </table>
